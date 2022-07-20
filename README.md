@@ -44,10 +44,16 @@ The whole authentication is managed by firebase or services for security and aut
 
 # Screenshots:
 * Registration Page Screenshot : ![](screenshots/Registration%20Screen.png)
+
 * Login Page Screenshot : ![](screenshots/Log-in%20Screen.png)
+
 * Home Page Screenshot : ![](screenshots/Home.png)
+
 * Product Details Page Screenshot : ![](screenshots/Product%20Details.png)
+
 * Cart Page Screenshot : ![](screenshots/Cart.png)
+
 * Payment Page Screenshot : ![](screenshots/Payment.png)
+
 * Payment Successfull Page Screenshot : ![](screenshots/Payment%20Successfull.png)
 
